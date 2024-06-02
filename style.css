@@ -6,7 +6,7 @@ body {
 
 h1 {
   font-family: Gasoek One;
-  background: -webkit-linear-gradient(#FF309E, #354599);
+  background: -webkit-linear-gradient(135deg, #FF309E, #354599);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
